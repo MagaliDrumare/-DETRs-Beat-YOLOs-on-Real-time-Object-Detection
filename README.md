@@ -6,4 +6,8 @@ The first real-time end-to-end object detector to our best knowledge. Our RT-DET
 - RT-DETR GitHub :  https://github.com/lyuwenyu/RT-DETR
 - https://huggingface.co/papers/2304.08069
 - https://x.com/mervenoyann/status/1807791217100415154
+
+### Real Time Detection Transformer (RT-DETR) 
+- https://youtu.be/SArFQs6CHwk?feature=shared
+
   
